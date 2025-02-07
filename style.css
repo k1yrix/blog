@@ -37,8 +37,8 @@ border: none;
 }
 
 a {
-color: var(--accent);
-text-decoration: none;
+  color: var(--accent);
+  text-decoration: none;
 }
 
 h1 {
@@ -49,22 +49,23 @@ h1 {
 }
 
 img {
-border-radius: 5pt;
-cursor: pointer;
-transition: all, cubic-bezier(0.175, 0.885, 0.32, 1.275), 0.25s;
-width: 80%;
-max-width: 720px;
+  border-radius: 5pt;
+  cursor: pointer;
+  transition: all, cubic-bezier(0.175, 0.885, 0.32, 1.275), 0.25s;
+  width: auto;
+  max-width: 720px;
 }
 
 img:active {
-z-index: 1;
-width: 100%;
-max-width: 1280px;
-scale: 1.2;
-box-shadow: var(--accent) 0px 0px 60px;
+  z-index: 1;
+  width: auto;
+  max-width: 1280px;
+  scale: 1.2;
+  box-shadow: var(--accent) 0px 0px 60px;
 }
 
 blockquote {
+  width: auto;
   background-color: var(--alt2);
   padding: 10pt;
   text-align: left;
