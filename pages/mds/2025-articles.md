@@ -17,4 +17,4 @@ testing out some stuff
 ---
 
 [b1]: ../htmls/pub/testBlog_2025-02-07.html
-[b2]: ../htmls/pub/feltLikeResignig_2025-02-07.html
+[b2]: ../htmls/pub/feltLikeResigning_2025-02-07.html
