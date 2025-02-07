@@ -3,15 +3,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-  --background: #26101f;
-  --main: #281d35;
-  --alt: #443552;
-  --alt2: #41292d;
+  --background: #101626;
+  --main: #1d1f35;
+  --alt: #354752;
+  --alt2: #293c41;
   --text: #fff;
   --tinytext: #b3b3b3;
-  --accent: #cb4ccf;
+  --accent: #4c9fcf;
   --accent2: #3620ff;
-  --accent3: #8a4386;
+  --accent3: #43648a;
   --shadows: #111;
   --screenwidth: ;
 }
