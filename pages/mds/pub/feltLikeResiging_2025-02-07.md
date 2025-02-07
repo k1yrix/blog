@@ -29,7 +29,7 @@ once I saw the letters, I became so frustrated over what has been <i>actually</i
 I still had a good amount of pride left in this community before the letters were sent out, but now that pride went down the drain tenfold. I just felt I don't want to be here anymore, I don't want to get involved in this mess in any way possible, I don't want to see the game go rot in hell (because I want to see this game grow more). I just <b>want to get the hell out of here and don't look back at what the leadership have created.</b>
 
 ## what needs to be changed
-if they want to keep the community in a stable shape, there needs to be new leadership <b>ASAP</b>. a lot of us are not going to stand here and let leadership continue to ignore our concerns and feedback. we want people who is able to take take of the community and bring balance to the leadership hierarchy.
+if they want to keep the community in a stable shape, there needs to be new leadership <b>ASAP</b>. a lot of us are not going to stand here and let leadership continue to ignore our concerns and feedback. we want people who is able to take care of the community and bring balance to the leadership hierarchy.
 
 take scr update tracking for example. their administration team just had some recent controversy over *its* leadership following its founder's resignation. it's fortunate that their system was built so well that the founder reinstated himself as owner just to redo the entire administration team. now **that** is something that we want to see, but, as mentioned somewhere before, with charlie still doing BTS stuff and while SCR is still on *his* hands of technicality, the chances of this happing is probably unrealistic. (not saying it's not possible, but it can happen eventually)
 
