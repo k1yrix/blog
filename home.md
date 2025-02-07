@@ -1,2 +1,13 @@
-# there is nothing here yet
-you should go away or check out the [main site](https://k1yrix.github.io) instead.
+# welcome to my blog
+I write stuff here, whether something random or something meaningful. who knows.
+
+---
+
+# the latest blog entry:
+## test blog
+published 2025, 7th February @ 09:21 EST. (UTC-5)
+
+---
+
+# the last three before it
+none
