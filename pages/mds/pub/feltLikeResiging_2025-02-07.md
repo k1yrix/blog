@@ -1,5 +1,6 @@
 # I almost felt like resigning from the SCR Wiki
 published 2025, 7th February @ 15:36 EST. (UTC-5)
+[extended](#edit-to-expand) 2025, February 8th @ 16:14 EST (UTC-5)
 
 ---
 
@@ -32,6 +33,8 @@ I still had a good amount of pride left in this community before the letters wer
 if they want to keep the community in a stable shape, there needs to be new leadership <b>ASAP</b>. a lot of us are not going to stand here and let leadership continue to ignore our concerns and feedback. we want people who is able to take care of the community and bring balance to the leadership hierarchy.
 
 take scr update tracking for example. their administration team just had some recent controversy over *its* leadership following its founder's resignation. it's fortunate that their system was built so well that the founder reinstated himself as owner just to redo the entire administration team. now **that** is something that we want to see, but, as mentioned somewhere before, with charlie still doing BTS stuff and while SCR is still on *his* hands of technicality, the chances of this happing is probably unrealistic. (not saying it's not possible, but it can happen eventually)
+
+(edit: check the [extended](#edit-to-expand) section of this)
 
 ## final words
 I think that the stakes are so large that the game can't die regardless, but I don't think the community will be able to survive with a broken leadership of what we have right now. maybe in a few years the community aspect will be <u>completely</u> ignored as a whole. (that's just an overstatement for dramatic effect, it would be unrealistic for this to happen) 
