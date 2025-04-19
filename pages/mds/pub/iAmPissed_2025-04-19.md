@@ -1,7 +1,7 @@
 # I am pissed.
 published 2025, 19th April @ 17:03 EST. (UTC-5)
 
-**I am not going to call anybody out, please do not harrass anyone mentioned on this blog post.**
+**please do not harrass anyone mentioned on this blog post**
 
 ---
 
