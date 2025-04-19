@@ -12,7 +12,7 @@ so someone in the stepford county railway community decided to make a video that
 ## what were the leaks?
 before I reveal what went wrong, here's a description of each of the leaks were:
 
-1. three of the images contained being in an stepford central.
+1. three of the images contained being in stepford central.
 2. another was taken in four ways.
 3. another was taken with the 756 in its full form
 
