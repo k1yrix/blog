@@ -22,7 +22,7 @@ before I reveal what went wrong, here's a description of each of the leaks were:
 2. in the angle with the 756 with three signals, yeah who's idea was it to copy and paste the signals without changing its ID. one of the signals are labeled `M128`, which suggests the MORGANSTOWN BRANCH IN AN `Sxxx` ZONE. NOT LOGICAL.
 3. another angle that contained a class 345 with a signal. yeah that's the same as the other ones. who would've thought of showing three (maybe) four signals in a row that IS THE SAME SIGNAL ID. ALSO: THE OHLE IS INCOMPLETE. HOW CAN THE TRAINS RUN ON UNELECTRIFIED TRACK????
 
-I'm not sure if the 756 is legit or not, but sure enough that the others are.
+I'm not sure if the 756 is legit or not, but sure enough that the others are fake.
 
 ## I don't understand, how this video pissed you off?
 
