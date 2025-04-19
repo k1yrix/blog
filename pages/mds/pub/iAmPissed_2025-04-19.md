@@ -42,6 +42,8 @@ probably most unlikely. I know this because most probably don't have the patienc
 
 I think I am done with the ranting for today.
 
+by the way, I'm not going to do anything really. I'm just angry over how the use of the redrawn logo is being used to farm content before the update even gotten released.
+
 ---
 
 you have read until the end, horray!
