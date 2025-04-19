@@ -41,3 +41,11 @@ I put it out there for people to use in creative stuff, but not like *this* to f
 probably most unlikely. I know this because most probably don't have the patience and skill to achieve this much accuracy than I could. I ***had*** the patience and skill to do this, and from what I'm aware, ***I*** am probably the only person in this community to do so. and since this can be used uncredited because it's intentionally in PD, this can be went unchecked, but as autistic as I am, I had to check in and see what's going on every so.
 
 I think I am done with the ranting for today.
+
+<detail>
+    <summary>spoiler</summary>
+
+    if you want to know the context that I was talking about in this blog, these are what I was talking about:
+    - https://www.youtube.com/watch?v=TwcFVXSu0B4
+    - https://www.reddit.com/r/stepfordcountyrailway/comments/1k30rol/new_metro_leaks_youtube_video/
+</detail>
