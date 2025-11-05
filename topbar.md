@@ -2,4 +2,4 @@
 
 [rt]: /index.html
 [d1]: /blog/
-[d2]: /articles/2025/
+[d2]: /blog/articles/2025/
