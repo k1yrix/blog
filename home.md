@@ -24,6 +24,6 @@ testing out some stuff
 
 want more even before it? see the archives on the topbar.
 
-[lb]: ./pages/htmls/pub/feltLikeResigning_2025-02-07.html
-[l1]: ./pages/htmls/pub/testBlog_2025-02-07.html
-[l2]: ./pages/htmls/pub/iAmPissed_2025-04-19.html
+[lb]: ./articles/2025/feltLikeResigning_2025-02-07/
+[l1]: ./articles/2025/testBlog_2025-02-07/
+[l2]: ./articles/2025/iAmPissed_2025-04-19/

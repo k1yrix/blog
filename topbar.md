@@ -1,5 +1,5 @@
-### [home][rt] | [main][d1] | [archives][d2]
+### [home][rt] | [blog home][d1] | [archives (2025)][d2]
 
 [rt]: /index.html
-[d1]: /blog/index.html
-[d2]: /blog/pages/htmls/2025-articles.html
+[d1]: /blog/
+[d2]: /articles/2025/
