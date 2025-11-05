@@ -1,6 +1,6 @@
 # 2025 blog list (archives)
 
---
+---
 
 ## [I am pissed][b2]
 ### published 2025, 19th April @ 17:03 EST. (UTC-5)
