@@ -2,6 +2,13 @@
 
 ---
 
+## [I am pissed (update)][b4]
+### published 2025, 5th November @ 17:36 EST. (UTC-5)
+
+an update on the last blog post I made, showing some interesting evidence that was recently brought to my attention.
+
+---
+
 ## [I am pissed][b3]
 ### published 2025, 19th April @ 17:03 EST. (UTC-5)
 
