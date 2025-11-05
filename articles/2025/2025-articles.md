@@ -2,7 +2,7 @@
 
 ---
 
-## [I am pissed][b2]
+## [I am pissed][b3]
 ### published 2025, 19th April @ 17:03 EST. (UTC-5)
 
 something happened recently in the stepford county railway community, and I discuss what happened and how it pissed me off.
