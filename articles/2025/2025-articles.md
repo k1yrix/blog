@@ -1,5 +1,12 @@
 # 2025 blog list (archives)
 
+--
+
+## [I am pissed][b2]
+### published 2025, 19th April @ 17:03 EST. (UTC-5)
+
+something happened recently in the stepford county railway community, and I discuss what happened and how it pissed me off.
+
 ---
 
 ## [I almost felt like resigning from the SCR Wiki][b2]
@@ -16,5 +23,6 @@ testing out some stuff
 
 ---
 
-[b1]: ../htmls/pub/testBlog_2025-02-07.html
-[b2]: ../htmls/pub/feltLikeResigning_2025-02-07.html
+[b1]: ./testBlog_2025-02-07/
+[b2]: ./feltLikeResigning_2025-02-07/
+[b3]: ./iAmPissed_2025-04-19/
