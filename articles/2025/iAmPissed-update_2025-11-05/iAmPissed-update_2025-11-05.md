@@ -15,7 +15,7 @@ an anonymous user on [my bluesky](bsky1) (go follow btw) sent me a private messa
 
 **to maintain privacy of everyone, all mentions of names will be censored. I will also not reveal who sent me this information to protect their identity.**
 
-![the conversation on bluesky (image 1)](./images/convo1.png)M<br>
+![the conversation on bluesky (image 1)](./images/convo1.png)<br>
 <font size="1">figure A1: the conversation with the whistleblower on my bluesky dms</font>
 
 ![the conversation on bluesky (image 2)](./images/convo2.png)<br>
