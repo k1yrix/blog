@@ -2,7 +2,7 @@
 
 ---
 
-## [I am pissed (update)][b4]
+## [I am pissed (update)](b4)
 ### published 2025, 5th November @ 17:36 EST. (UTC-5)
 
 an update on the last blog post I made, showing some interesting evidence that was recently brought to my attention.
@@ -33,3 +33,4 @@ testing out some stuff
 [b1]: ./testBlog_2025-02-07/
 [b2]: ./feltLikeResigning_2025-02-07/
 [b3]: ./iAmPissed_2025-04-19/
+[b4]: ./iAmPissed-update_2025-11-05/
