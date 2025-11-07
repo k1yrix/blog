@@ -31,7 +31,7 @@ an anonymous user on [my bluesky](bsky1) (go follow btw) sent me a private messa
 <font size="1">figure B3: the guys discussing about a fake leak about four ways</font>
 
 ![evidence 4](./images/evidence4.png)<br>
-<font size="1">figure B4: one of the guys showing a fake leak featuring the Class 756</font>
+<font size="1">figure B4: one of the guys showing a fake leak featuring the Class 756. (This was a bonus provided by the whistleblower. This was not released as part of the fake leaks)</font>
 
 regardless, these are the most believable fake leaks that the community has probably seen and probably would've gotten away with it if it wasn't for those very noticable errors in those fake leaks. at least these new evidence definitely shows that they were infact staged.
 
