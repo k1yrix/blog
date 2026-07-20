@@ -17,6 +17,7 @@
 	--dc-font: "Roboto Mono", ui-sans-serif, system-ui, sans-serif;
 	--dc-font-mono: "Roboto Mono", ui-monospace, monospace;
 
+  /* temporary while I migrate it to dev.css's equivalent */
   --background: #101626;
   --main: #1d1f35;
   --alt: #354752;
