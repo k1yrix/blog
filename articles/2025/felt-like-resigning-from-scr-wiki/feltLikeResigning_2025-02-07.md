@@ -7,7 +7,7 @@ published 2025, 7th February @ 15:36 EST. (UTC-5)
 I did not feel like wanting to make this blog post, but considering the recent events that has been happing recently, I felt it was necessary to draw this up now.
 
 ## disclaimer
-I'm not resigning. this letter has <b><i>no correlation</i></b> with the wiki <b><i>at all</i></b>. I'm just delivering a letter reguarding the state of SCR as we all know it. I still have some pride to the community, but all of this neglegence and incompitence by the leaders just wants me to leave the SCR community as a whole.
+I'm not resigning. this letter has <b><i>no correlation</i></b> with the wiki <b><i>at all</i></b>. I'm just delivering a letter regarding the state of SCR as we all know it. I still have some pride to the community, but all of this neglegence and incompitence by the leaders just wants me to leave the SCR community as a whole.
 
 ## background
 almost everyone should basically know this by know, but if you have been living under a rock for the past month, to give some starting context of what's going on, the state of the community in SCR has been at its lowest point than it ever was before now. recently, there has been several resignations among SCR's staff that has led to a community fall off. more notably, community manager atom and engagement manager volt recently resigned because of the following common reasons:
