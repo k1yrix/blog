@@ -1,3 +1,6 @@
+> [!WARNING]
+> this is the old branch. this branch will no longer be updated.
+
 welcome to the blog repo
 
 it's a seperate repo from the root repo to make things organized (also I can cheat things around)
