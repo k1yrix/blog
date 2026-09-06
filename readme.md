@@ -1,5 +1,5 @@
 > [!WARNING]
-> this is the old branch. this branch will no longer be updated.
+> this is an old branch. this branch will no longer be updated.
 
 welcome to the blog repo
 
