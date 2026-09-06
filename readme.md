@@ -1,3 +1,6 @@
+> [!WARNING]
+> this website will soon be migrating to [jekyll](https://jekyllrb.com/). work will be in progress.
+
 welcome to the blog repo
 
 it's a seperate repo from the root repo to make things organized (also I can cheat things around)
