@@ -2,7 +2,7 @@
 title: I almost felt like resigning from the SCR Wiki
 date: 2025-02-07 15:36 -0400
 last_modified_at: 2026-09-07 00:02 -0400
-categories: [opinions]
+categories: [personal, opinions]
 tags: [scr, rant, stepford county railway]
 description: I discuss the state of stepford county railway and why I almost wanted to resign my post from SCRW (let alone, leave the community as a whole)
 ---

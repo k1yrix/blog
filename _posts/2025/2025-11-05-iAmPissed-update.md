@@ -2,7 +2,7 @@
 title: I am pissed. (update)
 date: 2025-05-11 17:36 -0400
 last_modified_at: 2026-09-06 23:28 -0400
-categories: [opinions]
+categories: [personal, opinions]
 tags: [scr, rant, stepford county railway]
 description: an update on the last blog post I made, showing some interesting evidence that was recently brought to my attention.
 ---
