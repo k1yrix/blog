@@ -1,0 +1,96 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+:root[data-bs-theme=dark]{
+    --main-bg: rgb(30, 30, 46);
+    --sidebar-bg: rgb(24, 24, 37);
+    --sidebar-hover-bg: rgb(88, 91, 112);
+    --topbar-bg: rgb(24, 24, 37);
+    --main-border-color: rgb(180, 190, 254);
+    --link-color: rgb(180, 190, 254);
+    --link-underline-color: rgb(203, 166, 247);
+    --text-color: rgb(205, 214, 244);
+    --text-muted-color: rgb(127, 132, 156);
+	--card-bg: #11111b;
+    --heading-color: #cdd6f4;
+    --card-header-bg: #181825;
+    --card-hover-bg: rgb(49, 50, 68);
+    --button-bg: #11111b;
+    --sidebar-btn-bg: var(--button-bg);
+    --sidebar-btn-color: var(--link-color);
+    --avatar-border-color: rgb(205 214 244 / 90%);
+    --site-title-color: rgb(205, 214, 244);
+	--site-subtitle-color: #a6adc8;
+    --sidebar-muted-color: #b4befe;
+    // --button-bg: #b4befe
+}
+
+#page-category a:hover,#page-tag a:hover,#access-lastmod a:hover,.post-tail-wrapper .license-wrapper>a:hover,.post-edit>a:hover,#search-results a:hover,footer a:hover,#topbar #breadcrumb a:hover,.post-meta a:not([class]):hover,.content a:not(.img-link):hover{
+	color:#cba6f7 !important;
+	border-bottom:1px solid #cba6f7;
+	text-decoration:none
+}
+
+#sidebar ul li.nav-item a.nav-link span{
+    text-transform: lowercase;
+}
+
+#panel-wrapper .panel-heading{
+    text-transform: lowercase;
+}
+
+#topbar #breadcrumb{
+    text-transform: lowercase;
+}
+
+:root[data-bs-theme=dark] #archives li:nth-child(odd){
+	background-image:linear-gradient(to left, rgb(30, 30, 46), rgb(49, 50, 68), rgb(69, 71, 90), rgb(49, 50, 68), rgb(30, 30, 46))
+}
+
+:root{
+    .btn.btn-outline-primary:not(.disabled):hover{
+	    border-color:#b4befe !important
+    };
+
+    // .btn-outline-primary{
+    //     --bs-btn-hover-bg: #b4befe
+    // }
+
+    header .post-desc{
+        font-family: "Roboto Mono", ui-sans-serif, system-ui, sans-serif;
+        // font-weight: normal;
+    };
+
+    body {
+        font-family: "Roboto Mono", ui-sans-serif, system-ui, sans-serif
+    };
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: "Roboto Mono", ui-sans-serif, system-ui, sans-serif;
+        font-weight: bold;
+    };
+
+    .form-control{
+        text-transform: lowercase;
+    }
+
+    footer{
+        text-transform: lowercase;
+    }
+}

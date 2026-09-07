@@ -1,0 +1,40 @@
+---
+title: I am pissed. (update)
+date: 2025-05-11 17:36 -0400
+last_modified_at: 2026-09-06 23:28 -0400
+categories: [opinions]
+tags: [scr, rant, stepford county railway]
+description: an update on the last blog post I made, showing some interesting evidence that was recently brought to my attention.
+---
+
+## I got an update.
+
+I have an update on a blog post that I made many back in april. the blog post in question was the ["I am pissed"](../iAmPissed) post where I rant on how a small content creator leveraged (in my belief) the use of my highly-accurate redrawn metro logo, specifically designed for the SCR Wiki, in order to create fake leaks. while I didn't pursue action, considering my knowledge on copyright law, I was still really angry over this regardless. I have gotten over it, but now this topic was brought back to my attention recently.
+
+## what's going on?
+
+an anonymous user on [my bluesky](https://bsky.app/profile/k1yrix.moe) (go follow btw) sent me a private message. apparently stevennn was not the one behind the fake leaks. (*and because of that, I would like to sincerely apologize for the accusation made in the previous blog post*) it turned out that two random guys decide to make the fake leaks (I suspect using all the highest quality assets possible through a mix of references, leaked models, and the SCR Wiki) and then sent the fake leaks to stevennn, in which stevennn believed in the leaks to make content out of it. they were allegedly also the ones behind the great wharton plaza hoax leaks as well.
+
+## the evidence
+
+**to maintain privacy of everyone, most mentions of names will be censored. I will also not reveal who sent me this information to protect their identity.**
+
+![the conversation on bluesky (image 1)](/assets/img/2025-11-05/convo1.png)<br>
+<font size="1">figure A1: the conversation with the whistleblower on my bluesky dms</font>
+
+![the conversation on bluesky (image 2)](/assets/img/2025-11-05/convo2.png)<br>
+<font size="1">figure A2: the conversation with the whistleblower on my bluesky dms</font>
+
+![evidence 1](/assets/img/2025-11-05/evidence1.png)<br>
+<font size="1">figure B1: the two guys sending stevennn the fake leaks, acknowledging that stevennn believed in the fake leaks</font>
+
+![evidence 2](/assets/img/2025-11-05/evidence2.png)<br>
+<font size="1">figure B2: one of the guys showing the fake leaks so far</font>
+
+![evidence 3](/assets/img/2025-11-05/evidence3.png)<br>
+<font size="1">figure B3: the guys discussing about a fake leak about four ways</font>
+
+![evidence 4](/assets/img/2025-11-05/evidence4.png)<br>
+<font size="1">figure B4: one of the guys showing a fake leak featuring the Class 756. (This was a bonus provided by the whistleblower. This was not released as part of the fake leaks)</font>
+<br>
+regardless, these are the most believable fake leaks that the community has probably seen and probably would've gotten away with it if it wasn't for those very noticable errors in those fake leaks. at least these new evidence definitely shows that they were infact staged.
