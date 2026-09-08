@@ -4,7 +4,6 @@ date: 2026-07-20 14:42 -0400
 last_modified_at: 2026-09-06 23:22 -0400
 categories: [blogs, website updates]
 tags: [website, updates, design]
-pin: true
 description: I basically started my website over. here's why and what I decided to use.
 ---
 
