@@ -220,4 +220,4 @@ nixos was fun and I like the model of the distro. but unfortunately, I'm going b
 
 as much as I like the declarative format and everything, the experience I've talked about here doesn't really align with how I want to use my computer. I want my operating system fast, performant, simple, and easy. and with arch increasingly becoming basically the centerpoint for linux gaming (thanks cachyos), there's a butt-ton of resources to try to get the best out of your computer as much as possible. and plus, I've basically used arch for so long that I've gotten more used to the workflow of maintaining an arch install than a nixos install.
 
-I wish I could use it long-term, but it just doesn't fit for me the long-term.
+I wish I could use it long-term, but it just doesn't fit for me. sorry not sorry. :(
