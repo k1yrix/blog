@@ -60,6 +60,7 @@ usually there's one command to update all your packages to the latest version. b
 
 ### updates are not *fast*
 > (plus the additional time it takes to pull and compile the packages)
+
 yeah I was not kidding when I said this statement. this isn't your typical distro where they provide pre-compiled binaries of packages. some of them (or probably most of them) are pulled directly from the source and had to be compiled on spot during updates and installs. this basically increases downtime a by lot. not only that, but you're basically raising your electricity bill compiling all that crap in one go. compare that to arch, it just pulls pre-compiled binaries and it puts where it needs to be in just a few minutes. simple.
 
 ### updating your system is prone to massive storage real estate being stolen
@@ -69,7 +70,7 @@ to understand the context, here is all of my installed packages on my system as 
 ...
   {
     ...
-    
+
     packages = with pkgs; [
       kdePackages.kate
       kdePackages.kcalc
