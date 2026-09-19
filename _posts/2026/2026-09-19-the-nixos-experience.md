@@ -67,7 +67,9 @@ to understand the context, here is all of my installed packages on my system as 
 ```nix
 {
 ...
-
+  {
+    ...
+    
     packages = with pkgs; [
       kdePackages.kate
       kdePackages.kcalc
