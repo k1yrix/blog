@@ -21,12 +21,12 @@ after a year and a half of using arch, I looked into a new challenge. some new d
 
 initially I looked into [void linux](https://voidlinux.org/), but it turns out I wasn't ready for that yet.
 
-then I saw [nixos](https://nixos.org/), a package manager and linux distro that uniquely use a declaritive configuration to set up your system on how you wanted it to be, instead of using a series of commands to install packages and manually configurating the system.
+then I saw [nixos](https://nixos.org/), a linux distro that uniquely use a declaritive configuration to set up your system on how you wanted it to be, instead of using a series of commands to install packages and manually configurating the system.
 
 ## preface: how nixos works
 the os uses nix as the underlying manager for packages. nix pulls all the binaries and necessary shared libraries for that application. the best part is that the package and its dependencies is seperated from everything else, so you don't have to worry about dependency conflicts with another application. plus, they guarantee reproducable packages, basically guaranteeing your system is idenential down to the bit with another computer.
 
-in nixos specifically, I can have a lot of control of how the configuration should be applied. I can apply it right away, I can test the config, or I could have it applied next boot. the best part is it's all immutable and atomic, so that means nothing can break basically break. if something breaks, oh well just roll the system back to the last config and fix what went wrong.
+in nixos specifically, I have a lot of control of how the configuration should be applied. I can apply it right away, I can test the config, or I could have it applied next boot. the best part is it's all immutable and atomic, so that means nothing can break basically break. if something breaks, oh well just roll the system back to the last config and fix what went wrong.
 
 ### and we have flakes
 this is where things get a little complicated. I don't know how to exactly define out "flakes" since a simple definition isn't available, but from how I interpret it, it's basically special inputs and outputs for nix. it just pin specific stuff to specific commits.
